@@ -319,3 +319,6 @@ liveout.xntv.tv:443
 file.loulannews.cn:80
 210.16.160.81:1122
 49.234.31.101:7033
+edgeone.passwdword.xyz:443
+125.42.150.182:9901
+101.66.198.79:9901
