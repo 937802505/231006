@@ -344,3 +344,5 @@ tv.greatstar.me:80
 mag.greatott.me:80
 125.42.151.15:9901
 221.13.235.152:9901
+huanqiuzhibo.cn:80
+1.197.250.93:9901
