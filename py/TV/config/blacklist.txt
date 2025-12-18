@@ -353,3 +353,5 @@ huanqiuzhibo.cn:80
 119.129.172.45:9901
 221.13.234.200:9901
 zbbf2.ahbztv.com:80
+test1.live.sdetv.com.cn:443
+125.42.148.189:9901
