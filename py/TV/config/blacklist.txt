@@ -366,3 +366,10 @@ liveout.gstv.com.cn:443
 101.66.198.122:9901
 svip.high24-playback.com:443
 182.114.48.177:9901
+qmmqvzoz.live.sxmty.com:443
+182.114.49.230:9901
+uzoiczhh.live.sxmty.com:80
+101.66.194.163:9901
+bp-resource-dfl.bestv.cn:80
+101.66.195.124:9901
+101.66.199.199:9901
