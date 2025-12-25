@@ -422,3 +422,7 @@ gmxw.7766.org:808
 hzcm-live.media.hugd.com:443
 182.114.48.228:9901
 ggpagerl.live.sxmty.com:80
+101.66.194.123:9901
+hmfs.f3322.net:3388
+101.66.199.99:9901
+tvb.go-iptv.ggff.net:443
