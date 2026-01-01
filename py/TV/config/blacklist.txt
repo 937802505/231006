@@ -506,3 +506,4 @@ m3u8channel.ganzitv.com:443
 58.51.111.46:1111
 36.40.237.243:9999
 live.jinchuanrmt.com:90
+hzzzz530.com:4022
