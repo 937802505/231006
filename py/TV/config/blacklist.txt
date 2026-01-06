@@ -555,3 +555,4 @@ satellitepull.cnr.cn:80
 182.114.49.187:9901
 112.123.206.32:808
 live.hznet.tv:1935
+epg.pw:443
