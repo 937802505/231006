@@ -3578,3 +3578,4 @@ srs.ssws.tv
 175.8.182.213
 27.184.29.239
 106.59.3.217
+hlsal-ldvt.qing.mgtv.com
