@@ -648,3 +648,4 @@ piccpndks.v.kcdnvip.com:443
 my5353.com:443
 3739115337.cloudvdn.com:80
 101.66.194.59:9901
+smt.veryfast.filegear-sg.me:80
