@@ -698,3 +698,4 @@ bp-resource-dfl.bestv.cn:443
 43.251.226.89:8080
 live.iwcmt.cn:90
 182.114.49.190:9901
+pull-hs-f5.flive.douyincdn.com:80
