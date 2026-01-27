@@ -3645,3 +3645,4 @@ pull-hls-f1.douyincdn.com
 pull-hs-f5.flive.douyincdn.com
 36.46.98.57
 36.49.51.207
+live.zohi.tv
