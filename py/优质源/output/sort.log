@@ -1,522 +1,294 @@
-测速日志 2026-01-30 09:18:24
-[2026-01-30 09:18:27] ✅ 测速成功: http://69.30.246.194/live/cctv12.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:18:27] ✅ 测速成功: http://69.30.246.194/live/cctv11.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:18:27] ✅ 测速成功: http://69.30.246.194/live/cctv15.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:18:27] ✅ 测速成功: http://69.30.246.194/live/cctv14.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:18:27] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:18:27] ✅ 测速成功: http://61.221.215.25:8800/hls/43/index.m3u8
-   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.28s
-[2026-01-30 09:18:27] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1012_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.41s
-[2026-01-30 09:18:27] ✅ 测速成功: http://27.41.245.32:801/hls/10/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.43s
-[2026-01-30 09:18:27] ✅ 测速成功: http://27.41.245.32:801/hls/14/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.43s
-[2026-01-30 09:18:27] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1000_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.44s
-[2026-01-30 09:18:27] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.36s
-[2026-01-30 09:18:27] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.36s
-[2026-01-30 09:18:27] ✅ 测速成功: http://27.41.245.32:801/hls/2/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:18:27] ✅ 测速成功: http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
-   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:18:27] ✅ 测速成功: http://27.41.245.32:801/hls/5/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:18:28] ✅ 测速成功: http://117.36.76.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2026-01-30 09:18:28] ✅ 测速成功: http://27.41.245.32:801/hls/6/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:18:28] ✅ 测速成功: http://27.41.245.32:801/hls/8/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.38s
-[2026-01-30 09:18:28] ✅ 测速成功: http://27.41.245.32:801/hls/9/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:18:28] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
-   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.37s
-[2026-01-30 09:18:28] ✅ 测速成功: http://27.41.245.32:801/hls/7/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.43s
-[2026-01-30 09:18:28] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1005_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.43s
-[2026-01-30 09:18:28] ✅ 测速成功: http://27.41.245.32:801/hls/906/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:18:28] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1007_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.45s
-[2026-01-30 09:18:28] ✅ 测速成功: http://69.30.246.194/live/dfws.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:18:28] ✅ 测速成功: http://43.138.0.72:35455/yy/1382754187
-   速度: 1392.58KB/s | 数据量: 1.4KB | 总耗时: 0.68s
-[2026-01-30 09:18:28] ✅ 测速成功: http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8?zzhongqd
-   速度: 438.48KB/s | 数据量: 0.4KB | 总耗时: 0.41s
-[2026-01-30 09:18:28] ✅ 测速成功: http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-   速度: 438.48KB/s | 数据量: 0.4KB | 总耗时: 0.42s
-[2026-01-30 09:18:28] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.36s
-[2026-01-30 09:18:28] ✅ 测速成功: http://112.27.235.94:8000/hls/24/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.30s
-[2026-01-30 09:18:28] ✅ 测速成功: http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
-   速度: 438.48KB/s | 数据量: 0.4KB | 总耗时: 0.42s
-[2026-01-30 09:18:28] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1021_1.m3u8
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.41s
-[2026-01-30 09:18:28] ✅ 测速成功: http://69.30.246.194/live/jsws.m3u8
-   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:18:28] ✅ 测速成功: http://112.27.235.94:8000/hls/25/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.31s
-[2026-01-30 09:18:28] ✅ 测速成功: http://69.30.246.194/live/zjws.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:18:28] ✅ 测速成功: http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-   速度: 2039.06KB/s | 数据量: 2.0KB | 总耗时: 0.40s
-[2026-01-30 09:18:28] ✅ 测速成功: http://27.41.245.32:801/hls/42/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:18:29] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.80s
-[2026-01-30 09:18:29] ✅ 测速成功: http://112.27.235.94:8000/hls/18/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.82s
-[2026-01-30 09:18:29] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.80s
-[2026-01-30 09:18:29] ✅ 测速成功: http://69.30.246.194/live/hnws.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:18:29] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.37s
-[2026-01-30 09:18:29] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.76s
-[2026-01-30 09:18:29] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.77s
-[2026-01-30 09:18:29] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.36s
-[2026-01-30 09:18:29] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.44s
-[2026-01-30 09:18:29] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.84s
-[2026-01-30 09:18:29] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.79s
-[2026-01-30 09:18:29] ✅ 测速成功: http://117.36.76.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.62s
-[2026-01-30 09:18:29] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.81s
-[2026-01-30 09:18:29] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.80s
-[2026-01-30 09:18:32] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.126:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.126:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260e360>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:32] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.154:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.154:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260d040>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:32] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.25:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.25:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260cd10>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:32] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.164:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.164:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260d150>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:32] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.150:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.150:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260e7a0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:32] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.241:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.241:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260cf30>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:32] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.151:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.151:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260caf0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:32] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.168:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.168:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260d260>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:32] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.156:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.156:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260cc00>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:32] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.165:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.165:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260e470>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:35] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.27:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.27:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260e030>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:35] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.135:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.135:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260e580>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:35] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.170:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.170:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260dae0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:35] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.201:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.201:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260e9c0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:35] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.171:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.171:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260ecf0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:35] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.93:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.93:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260f020>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:35] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.172:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.172:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260f350>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:35] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.136:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.136:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260f680>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:35] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.173:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.173:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260f9b0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:35] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.137:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.137:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7260fce0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:38] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.138:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.138:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d0050>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:38] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.178:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.178:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d0380>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:38] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.139:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.139:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d06b0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:38] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.15:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.15:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d09e0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:38] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.140:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.140:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d0d10>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:38] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.179:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.179:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d1040>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:38] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.182:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.182:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d1370>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:38] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.230:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.230:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d16a0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:38] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.29:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.29:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d19d0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:39] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.38:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.38:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d1d00>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:41] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.45:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.45:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d2030>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:41] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.52:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.52:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d2360>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:41] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.47:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.47:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d2690>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:41] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.60:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.60:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d29c0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:41] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.56:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.56:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d2cf0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:41] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.63:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.63:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d3020>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:41] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.58:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.58:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d3350>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:41] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.51:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.51:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d3680>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:42] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.206:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.206:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d39b0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:42] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.117:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.117:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702d3ce0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:44] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.125:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.125:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70348050>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:44] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.122:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.122:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70348380>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:44] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.123:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.123:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c703486b0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:44] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.116:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.116:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c703489e0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:44] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.141:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.141:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70348d10>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:44] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.115:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.115:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70349040>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:44] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.181:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.181:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70349370>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:44] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.131:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.131:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c703496a0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:45] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.130:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.130:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c703499d0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:45] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.124:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.124:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70349d00>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:47] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.185:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.185:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7034a030>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:47] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.186:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.186:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7034a360>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:47] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.74:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.74:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7034a690>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:47] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.110:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.110:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7034a9c0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:47] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.26:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.26:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7034acf0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:47] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.95:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.95:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7034b020>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:47] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.82:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.82:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7034b350>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:48] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.49:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.49:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7034b680>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:48] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.80:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.80:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7034b9b0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:48] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.101:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.101:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7034bce0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:50] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.40:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.40:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c4050>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:50] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.35:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.35:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c4380>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:50] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.111:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.111:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c46b0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:50] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.34:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.34:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c49e0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:50] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.180:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.180:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c4d10>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:50] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.76:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.76:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c5040>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:50] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.86:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.86:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c5370>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:51] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.18:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.18:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c56a0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:51] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.50:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.50:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c59d0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:51] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.114:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.114:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c5d00>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:53] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.160:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.160:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c6030>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:53] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.212:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.212:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c6360>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:53] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.238:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.238:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c6690>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:53] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.239:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.239:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c69c0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:53] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.169:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.169:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c6cf0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:53] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.67:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.67:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c7020>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:53] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.161:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.161:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c7350>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:54] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.163:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.163:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c7680>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:54] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.90:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.90:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c79b0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:54] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.162:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.162:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c701c7ce0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:56] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.98:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.98:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70238050>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:56] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.107:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.107:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70238380>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:56] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.108:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.108:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702386b0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:56] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.127:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.127:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702389e0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:56] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.128:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.128:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70238d10>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:56] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.133:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.133:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70239040>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:56] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.134:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.134:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70239370>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:57] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.149:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.149:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702396a0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:57] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.53:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.53:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c702399d0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:57] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.59:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.59:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c70239d00>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:59] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.188:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.188:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7023a030>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:59] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.198:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.198:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7023a360>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:59] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.28:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.28:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7023a690>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:59] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.6:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.6:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7023a9c0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:18:59] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.43:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.43:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7023acf0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:00] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.8:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.8:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7023b020>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:00] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.103:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.103:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7023b350>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:00] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.159:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.159:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7023b680>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:00] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.157:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.157:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7023b9b0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:00] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.57:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.57:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c7023bce0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:02] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.104:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.104:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700a8050>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:02] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.105:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.105:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700a8380>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:02] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.109:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.109:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700a86b0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:02] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.102:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.102:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700a89e0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:03] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.213:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.213:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700a8d10>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:03] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.148:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.148:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700a9040>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:03] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.118:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.118:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700a9370>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV2
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV4
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV5p
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV7
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV9
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV11
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV15
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.05s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV17
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=青海卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=吉林卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=四川卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=天津卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=山东卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.119:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.119:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700a96a0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=山西卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=广西卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=河北卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=河南卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=甘肃卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=贵州卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=辽宁卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=重庆卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV13
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.28s
-[2026-01-30 09:19:03] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.187:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.187:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700a99d0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=黑龙江卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=海南卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=decc97c7a68f83fb57b8ddfe0e326abd&wsTime=1769745562 | [Errno 2] No such file or directory: 'ffmpeg'
-[2026-01-30 09:19:03] ✅ 测速成功: http://74.48.192.96:82/live.php?id=大湾区卫视
-   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.02s
-[2026-01-30 09:19:03] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.203:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.203:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700a9d00>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:03] ✅ 测速成功: http://69.30.246.194/live/cctv14.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:19:03] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.37s
-[2026-01-30 09:19:03] ✅ 测速成功: http://27.41.245.32:801/hls/7/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.43s
-[2026-01-30 09:19:04] ✅ 测速成功: http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.45s
-[2026-01-30 09:19:04] ✅ 测速成功: https://play-qukan.cztv.com/live/1758879019692345.m3u8
-   速度: 479.49KB/s | 数据量: 0.5KB | 总耗时: 0.90s
-[2026-01-30 09:19:04] ✅ 测速成功: http://27.41.245.32:801/hls/9/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.43s
-[2026-01-30 09:19:04] ✅ 测速成功: http://69.30.246.194/live/cctv11.m3u8
-   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:19:04] ✅ 测速成功: http://27.41.245.32:801/hls/10/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:19:04] ✅ 测速成功: http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.42s
-[2026-01-30 09:19:05] ✅ 测速成功: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-   速度: 276.37KB/s | 数据量: 0.3KB | 总耗时: 0.84s
-[2026-01-30 09:19:05] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
-   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 1.90s
-[2026-01-30 09:19:05] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.38s
-[2026-01-30 09:19:05] ✅ 测速成功: http://pull-f3.douyincdn.com/media/stream-695180860228633260.m3u8?arch_hrchy=w1&auth_key=1770012985-0-0-ff9ee4b3a63b6442d68acb5c221d05b4&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601261446245C5B02B57E2169287B08-jDQsKk
-   速度: 465.82KB/s | 数据量: 0.5KB | 总耗时: 1.05s
-[2026-01-30 09:19:05] ✅ 测速成功: http://27.41.245.32:801/hls/5/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:19:05] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 512.70KB/s | 数据量: 0.5KB | 总耗时: 2.51s
-[2026-01-30 09:19:05] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.197:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.197:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700aa030>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:05] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.48:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.48:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700aa360>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:05] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
-   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:19:05] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
-   速度: 198.24KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:19:06] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.155:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.155:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700aa690>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:06] ✅ 测速成功: http://pull-f3.douyincdn.com/media/stream-695210801053303468.m3u8?arch_hrchy=w1&auth_key=1770157464-0-0-c86e8708d6a7ec472d19e1e6d5c72ce4&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601280654241B9396BD38ED096ED49B-UTnX2O
-   速度: 465.82KB/s | 数据量: 0.5KB | 总耗时: 1.18s
-[2026-01-30 09:19:06] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.214:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.214:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700aa9c0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:06] ❌ 测速失败: http://175.164.132.29:4010/rtp/232.0.0.215:1234
-   错误: HTTPConnectionPool(host='175.164.132.29', port=4010): Max retries exceeded with url: /rtp/232.0.0.215:1234 (Caused by ConnectTimeoutError(<HTTPConnection(host='175.164.132.29', port=4010) at 0x7f1c700aacf0>, 'Connection to 175.164.132.29 timed out. (connect timeout=3.05)')) | 域名: 175.164.132.29
-[2026-01-30 09:19:06] ✅ 测速成功: http://27.41.245.32:801/hls/6/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:19:06] ✅ 测速成功: https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
-   速度: 155.27KB/s | 数据量: 0.2KB | 总耗时: 0.23s
-[2026-01-30 09:19:06] ✅ 测速成功: https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
-   速度: 136.72KB/s | 数据量: 0.1KB | 总耗时: 0.24s
-[2026-01-30 09:19:06] ✅ 测速成功: http://69.30.246.194/live/dfws.m3u8
-   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:19:06] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
-   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.36s
-[2026-01-30 09:19:06] ✅ 测速成功: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.40s
-[2026-01-30 09:19:06] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.36s
-[2026-01-30 09:19:06] ✅ 测速成功: http://61.221.215.25:8800/hls/47/index.m3u8
-   速度: 251.95KB/s | 数据量: 0.3KB | 总耗时: 0.28s
-[2026-01-30 09:19:06] ✅ 测速成功: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-   速度: 416.02KB/s | 数据量: 0.4KB | 总耗时: 0.68s
-[2026-01-30 09:19:06] ✅ 测速成功: http://112.27.235.94:8000/hls/30/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.30s
-[2026-01-30 09:19:06] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.43s
-[2026-01-30 09:19:06] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.37s
-[2026-01-30 09:19:07] ✅ 测速成功: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-   速度: 1970.70KB/s | 数据量: 2.0KB | 总耗时: 0.54s
-[2026-01-30 09:19:07] ✅ 测速成功: https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-   速度: 229.05KB/s | 数据量: 103.6KB | 总耗时: 1.84s
-[2026-01-30 09:19:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.74s
-[2026-01-30 09:19:07] ✅ 测速成功: http://69.30.246.194/live/jsws.m3u8
-   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.09s
-[2026-01-30 09:19:07] ✅ 测速成功: https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-   速度: 831.05KB/s | 数据量: 0.8KB | 总耗时: 1.21s
-[2026-01-30 09:19:07] ✅ 测速成功: http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+测速日志 2026-01-30 14:38:28
+[2026-01-30 14:38:30] ✅ 测速成功: http://69.30.246.194/live/cctv11.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:30] ✅ 测速成功: http://69.30.246.194/live/cctv12.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:30] ✅ 测速成功: http://69.30.246.194/live/cctv14.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:30] ✅ 测速成功: http://69.30.246.194/live/cctv15.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:30] ✅ 测速成功: http://69.30.246.194/live/cctv16.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:31] ✅ 测速成功: http://61.221.215.25:8800/hls/43/index.m3u8
+   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.41s
+[2026-01-30 14:38:31] ✅ 测速成功: http://27.41.245.32:801/hls/14/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.53s
+[2026-01-30 14:38:31] ✅ 测速成功: http://27.41.245.32:801/hls/10/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.54s
+[2026-01-30 14:38:31] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1012_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.54s
+[2026-01-30 14:38:31] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1000_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.56s
+[2026-01-30 14:38:31] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.47s
+[2026-01-30 14:38:31] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.49s
+[2026-01-30 14:38:31] ✅ 测速成功: http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
+   速度: 196.29KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-01-30 14:38:31] ✅ 测速成功: http://27.41.245.32:801/hls/5/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-01-30 14:38:31] ✅ 测速成功: http://27.41.245.32:801/hls/2/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-01-30 14:38:31] ✅ 测速成功: http://27.41.245.32:801/hls/6/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-01-30 14:38:31] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.47s
+[2026-01-30 14:38:31] ✅ 测速成功: http://27.41.245.32:801/hls/7/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.53s
+[2026-01-30 14:38:31] ✅ 测速成功: http://27.41.245.32:801/hls/8/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-01-30 14:38:31] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1007_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.53s
+[2026-01-30 14:38:31] ✅ 测速成功: http://27.41.245.32:801/hls/9/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.53s
+[2026-01-30 14:38:31] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1005_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.56s
+[2026-01-30 14:38:31] ✅ 测速成功: http://27.41.245.32:801/hls/906/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-01-30 14:38:31] ✅ 测速成功: http://69.30.246.194/live/dfws.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:32] ✅ 测速成功: http://43.138.0.72:35455/yy/1382754187
+   速度: 1392.58KB/s | 数据量: 1.4KB | 总耗时: 0.86s
+[2026-01-30 14:38:32] ✅ 测速成功: http://112.27.235.94:8000/hls/18/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-01-30 14:38:32] ✅ 测速成功: http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8?zzhongqd
+   速度: 444.34KB/s | 数据量: 0.4KB | 总耗时: 0.53s
+[2026-01-30 14:38:32] ✅ 测速成功: http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
+   速度: 444.34KB/s | 数据量: 0.4KB | 总耗时: 0.54s
+[2026-01-30 14:38:32] ✅ 测速成功: http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+   速度: 444.34KB/s | 数据量: 0.4KB | 总耗时: 0.57s
+[2026-01-30 14:38:32] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.52s
+[2026-01-30 14:38:32] ✅ 测速成功: http://69.30.246.194/live/jsws.m3u8
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:32] ✅ 测速成功: http://112.27.235.94:8000/hls/25/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-01-30 14:38:32] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
+[2026-01-30 14:38:32] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
+[2026-01-30 14:38:32] ✅ 测速成功: http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+   速度: 2038.09KB/s | 数据量: 2.0KB | 总耗时: 0.61s
+[2026-01-30 14:38:32] ✅ 测速成功: http://27.41.245.32:801/hls/42/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.54s
+[2026-01-30 14:38:32] ✅ 测速成功: http://69.30.246.194/live/zjws.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:33] ✅ 测速成功: http://218.3.138.25:1111/tsfile/live/1021_1.m3u8
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 1.28s
+[2026-01-30 14:38:33] ✅ 测速成功: http://69.30.246.194/live/hnws.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:33] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.91s
+[2026-01-30 14:38:33] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.97s
+[2026-01-30 14:38:33] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.48s
+[2026-01-30 14:38:33] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/31/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.93s
+[2026-01-30 14:38:33] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.92s
+[2026-01-30 14:38:33] ✅ 测速成功: http://112.27.235.94:8000/hls/24/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 1.43s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV2
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.12s
+[2026-01-30 14:38:33] ✅ 测速成功: http://219.146.95.58:59902/tsfile/live/0111_1.m3u8
+   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.54s
+[2026-01-30 14:38:33] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.94s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV5p
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:33] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.47s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV4
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.13s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV7
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.12s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV9
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV11
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV13
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV15
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=CCTV17
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.12s
+[2026-01-30 14:38:33] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.94s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=青海卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.13s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=吉林卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.13s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=四川卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.13s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=天津卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.13s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=山西卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=山东卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.13s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=河北卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=河南卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=广西卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.13s
+[2026-01-30 14:38:33] ✅ 测速成功: http://74.48.192.96:82/live.php?id=贵州卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.12s
+[2026-01-30 14:38:34] ✅ 测速成功: http://74.48.192.96:82/live.php?id=重庆卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:34] ✅ 测速成功: http://74.48.192.96:82/live.php?id=甘肃卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.13s
+[2026-01-30 14:38:34] RTMP检测异常: rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=d4f3a4a33b7db3b54005638fb839fa88&wsTime=1769767202 | [Errno 2] No such file or directory: 'ffmpeg'
+[2026-01-30 14:38:34] ✅ 测速成功: http://74.48.192.96:82/live.php?id=辽宁卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.13s
+[2026-01-30 14:38:34] ✅ 测速成功: http://69.30.246.194/live/cctv14.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:34] ✅ 测速成功: http://74.48.192.96:82/live.php?id=黑龙江卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:34] ✅ 测速成功: http://74.48.192.96:82/live.php?id=海南卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:34] ❌ 测速失败: http://117.36.76.86:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='117.36.76.86', port=9901): Max retries exceeded with url: /tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='117.36.76.86', port=9901) at 0x7f2f98e21040>, 'Connection to 117.36.76.86 timed out. (connect timeout=3.05)')) | 域名: 117.36.76.86
+[2026-01-30 14:38:34] ✅ 测速成功: http://74.48.192.96:82/live.php?id=大湾区卫视
+   速度: 149.41KB/s | 数据量: 0.1KB | 总耗时: 0.11s
+[2026-01-30 14:38:34] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.88s
+[2026-01-30 14:38:34] ✅ 测速成功: http://27.41.245.32:801/hls/9/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.50s
+[2026-01-30 14:38:34] ✅ 测速成功: http://27.41.245.32:801/hls/7/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-01-30 14:38:34] ✅ 测速成功: http://27.41.245.32:801/hls/10/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.52s
+[2026-01-30 14:38:34] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.55s
+[2026-01-30 14:38:34] ✅ 测速成功: http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 418.95KB/s | 数据量: 0.4KB | 总耗时: 0.54s
+[2026-01-30 14:38:34] ✅ 测速成功: https://play-qukan.cztv.com/live/1758879019692345.m3u8
+   速度: 479.49KB/s | 数据量: 0.5KB | 总耗时: 0.67s
+[2026-01-30 14:38:34] ✅ 测速成功: http://69.30.246.194/live/cctv11.m3u8
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:34] ✅ 测速成功: http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+   速度: 278.32KB/s | 数据量: 0.3KB | 总耗时: 0.82s
+[2026-01-30 14:38:35] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.47s
+[2026-01-30 14:38:35] ✅ 测速成功: http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 423.83KB/s | 数据量: 0.4KB | 总耗时: 0.56s
+[2026-01-30 14:38:35] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:35] ✅ 测速成功: http://27.41.245.32:801/hls/5/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.54s
+[2026-01-30 14:38:35] ✅ 测速成功: http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+   速度: 194.34KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:35] ✅ 测速成功: http://27.41.245.32:801/hls/6/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.53s
+[2026-01-30 14:38:35] ✅ 测速成功: https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
+   速度: 155.27KB/s | 数据量: 0.2KB | 总耗时: 0.05s
+[2026-01-30 14:38:35] ✅ 测速成功: https://t.freetv.fun/live/chcying-mi-dian-ying-3.m3u8
+   速度: 136.72KB/s | 数据量: 0.1KB | 总耗时: 0.34s
+[2026-01-30 14:38:35] ✅ 测速成功: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+   速度: 416.02KB/s | 数据量: 0.4KB | 总耗时: 0.47s
+[2026-01-30 14:38:35] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+   速度: 647.46KB/s | 数据量: 0.6KB | 总耗时: 0.48s
+[2026-01-30 14:38:35] ✅ 测速成功: http://pull-f3.douyincdn.com/media/stream-695180860228633260.m3u8?arch_hrchy=w1&auth_key=1770012985-0-0-ff9ee4b3a63b6442d68acb5c221d05b4&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601261446245C5B02B57E2169287B08-jDQsKk
+   速度: 465.82KB/s | 数据量: 0.5KB | 总耗时: 1.13s
+[2026-01-30 14:38:36] ✅ 测速成功: http://play.kankanlive.com/live/1698234869325962.m3u8
+   速度: 249.02KB/s | 数据量: 0.2KB | 总耗时: 2.14s
+[2026-01-30 14:38:36] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.47s
+[2026-01-30 14:38:36] ✅ 测速成功: http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.55s
+[2026-01-30 14:38:36] ✅ 测速成功: http://69.30.246.194/live/dfws.m3u8
+   速度: 192.38KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:36] ✅ 测速成功: http://pull-f3.douyincdn.com/media/stream-695210801053303468.m3u8?arch_hrchy=w1&auth_key=1770157464-0-0-c86e8708d6a7ec472d19e1e6d5c72ce4&exp_hrchy=w1&major_anchor_level=common&t_id=037-202601280654241B9396BD38ED096ED49B-UTnX2O
+   速度: 465.82KB/s | 数据量: 0.5KB | 总耗时: 1.66s
+[2026-01-30 14:38:36] ❌ 测速失败: http://117.36.76.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='117.36.76.86', port=9901): Max retries exceeded with url: /tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='117.36.76.86', port=9901) at 0x7f2f98e20af0>, 'Connection to 117.36.76.86 timed out. (connect timeout=3.05)')) | 域名: 117.36.76.86
+[2026-01-30 14:38:36] ✅ 测速成功: http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+   速度: 831.05KB/s | 数据量: 0.8KB | 总耗时: 0.80s
+[2026-01-30 14:38:36] ✅ 测速成功: http://61.221.215.25:8800/hls/47/index.m3u8
+   速度: 251.95KB/s | 数据量: 0.3KB | 总耗时: 0.41s
+[2026-01-30 14:38:36] ✅ 测速成功: https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+   速度: 831.05KB/s | 数据量: 0.8KB | 总耗时: 1.06s
+[2026-01-30 14:38:36] ✅ 测速成功: http://112.27.235.94:8000/hls/30/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.46s
+[2026-01-30 14:38:36] ✅ 测速成功: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
    速度: 831.05KB/s | 数据量: 0.8KB | 总耗时: 1.18s
-[2026-01-30 09:19:07] ✅ 测速成功: http://27.41.245.32:801/hls/42/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.38s
-[2026-01-30 09:19:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.80s
-[2026-01-30 09:19:07] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/40/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.79s
-[2026-01-30 09:19:07] ✅ 测速成功: http://112.27.235.94:8000/hls/49/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.30s
-[2026-01-30 09:19:07] ✅ 测速成功: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-   速度: 831.05KB/s | 数据量: 0.8KB | 总耗时: 1.52s
-[2026-01-30 09:19:07] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.37s
-[2026-01-30 09:19:07] ✅ 测速成功: http://112.27.235.94:8000/hls/34/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.32s
-[2026-01-30 09:19:07] ✅ 测速成功: http://112.27.235.94:8000/hls/45/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.31s
-[2026-01-30 09:19:07] ✅ 测速成功: http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-   速度: 2039.06KB/s | 数据量: 2.0KB | 总耗时: 0.38s
-[2026-01-30 09:19:07] ✅ 测速成功: http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.64s
-[2026-01-30 09:19:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.76s
-[2026-01-30 09:19:08] ✅ 测速成功: http://117.36.76.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.46s
-[2026-01-30 09:19:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.79s
-[2026-01-30 09:19:08] ✅ 测速成功: https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 0.87s
-[2026-01-30 09:19:08] ✅ 测速成功: http://112.27.235.94:8000/hls/43/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.35s
-[2026-01-30 09:19:08] ✅ 测速成功: http://1.94.31.214/php/hntv.php?id=hnws
-   速度: 334.96KB/s | 数据量: 0.3KB | 总耗时: 1.81s
-[2026-01-30 09:19:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.74s
-[2026-01-30 09:19:08] ✅ 测速成功: http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-   速度: 818.36KB/s | 数据量: 0.8KB | 总耗时: 0.39s
-[2026-01-30 09:19:08] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
-   速度: 512.70KB/s | 数据量: 0.5KB | 总耗时: 0.23s
-[2026-01-30 09:19:08] ✅ 测速成功: http://112.27.235.94:8000/hls/40/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.31s
-[2026-01-30 09:19:08] ✅ 测速成功: http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-   速度: 344.73KB/s | 数据量: 0.3KB | 总耗时: 0.33s
-[2026-01-30 09:19:08] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.77s
-[2026-01-30 09:19:08] ✅ 测速成功: http://112.27.235.94:8000/hls/42/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.80s
-[2026-01-30 09:19:08] ✅ 测速成功: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-   速度: 29013.67KB/s | 数据量: 29.0KB | 总耗时: 0.21s
-[2026-01-30 09:19:09] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
-   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.39s
-[2026-01-30 09:19:09] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.81s
-[2026-01-30 09:19:09] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.81s
-[2026-01-30 09:19:09] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.80s
-[2026-01-30 09:19:09] ✅ 测速成功: http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-   速度: 473.63KB/s | 数据量: 0.5KB | 总耗时: 0.92s
-[2026-01-30 09:19:09] ✅ 测速成功: http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-   速度: 231.45KB/s | 数据量: 0.2KB | 总耗时: 0.54s
-[2026-01-30 09:19:09] ✅ 测速成功: https://play-qukan.cztv.com/live/1746687519046362.m3u8
-   速度: 479.49KB/s | 数据量: 0.5KB | 总耗时: 1.04s
-[2026-01-30 09:19:09] ✅ 测速成功: https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8
-   速度: 398.44KB/s | 数据量: 0.4KB | 总耗时: 2.44s
-[2026-01-30 09:19:13] ✅ 测速成功: http://148.113.160.49:14187
-   速度: 1246.52KB/s | 数据量: 6274.7KB | 总耗时: 5.17s
+[2026-01-30 14:38:36] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.53s
+[2026-01-30 14:38:36] ✅ 测速成功: http://69.30.246.194/live/jsws.m3u8
+   速度: 188.48KB/s | 数据量: 0.2KB | 总耗时: 0.08s
+[2026-01-30 14:38:36] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 446.29KB/s | 数据量: 0.4KB | 总耗时: 2.92s
+[2026-01-30 14:38:36] ✅ 测速成功: https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+   速度: 197.68KB/s | 数据量: 103.6KB | 总耗时: 2.29s
+[2026-01-30 14:38:37] ✅ 测速成功: http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+   速度: 1968.75KB/s | 数据量: 2.0KB | 总耗时: 0.48s
+[2026-01-30 14:38:37] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.52s
+[2026-01-30 14:38:37] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.90s
+[2026-01-30 14:38:37] ✅ 测速成功: http://27.41.245.32:801/hls/42/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.55s
+[2026-01-30 14:38:37] ✅ 测速成功: http://112.27.235.94:8000/hls/49/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-01-30 14:38:37] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.86s
+[2026-01-30 14:38:37] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.86s
+[2026-01-30 14:38:38] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.85s
+[2026-01-30 14:38:38] ✅ 测速成功: http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+   速度: 2038.09KB/s | 数据量: 2.0KB | 总耗时: 0.61s
+[2026-01-30 14:38:38] ✅ 测速成功: http://1.94.31.214/php/hntv.php?id=hnws
+   速度: 335.94KB/s | 数据量: 0.3KB | 总耗时: 1.75s
+[2026-01-30 14:38:38] ✅ 测速成功: http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 1.12s
+[2026-01-30 14:38:38] ✅ 测速成功: http://112.27.235.94:8000/hls/34/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 1.06s
+[2026-01-30 14:38:38] ✅ 测速成功: http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 1.54s
+[2026-01-30 14:38:38] ✅ 测速成功: http://112.27.235.94:8000/hls/45/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.43s
+[2026-01-30 14:38:38] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/40/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 1.88s
+[2026-01-30 14:38:38] ✅ 测速成功: http://112.27.235.94:8000/hls/43/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-01-30 14:38:38] ✅ 测速成功: https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+   速度: 208.01KB/s | 数据量: 0.2KB | 总耗时: 1.54s
+[2026-01-30 14:38:38] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.85s
+[2026-01-30 14:38:38] ✅ 测速成功: http://112.27.235.94:8000/hls/42/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-01-30 14:38:38] ✅ 测速成功: https://svipsvip.ffzyread1.com/20250101/34720_0d5e4b60/index.m3u8
+   速度: 396.48KB/s | 数据量: 0.4KB | 总耗时: 2.14s
+[2026-01-30 14:38:38] ✅ 测速成功: http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+   速度: 818.36KB/s | 数据量: 0.8KB | 总耗时: 0.53s
+[2026-01-30 14:38:39] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
+[2026-01-30 14:38:39] ✅ 测速成功: http://112.27.235.94:8000/hls/40/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.42s
+[2026-01-30 14:38:39] ✅ 测速成功: http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+   速度: 344.73KB/s | 数据量: 0.3KB | 总耗时: 0.41s
+[2026-01-30 14:38:39] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.85s
+[2026-01-30 14:38:39] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.89s
+[2026-01-30 14:38:39] ✅ 测速成功: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+   速度: 27547.85KB/s | 数据量: 27.5KB | 总耗时: 0.24s
+[2026-01-30 14:38:39] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.92s
+[2026-01-30 14:38:39] ✅ 测速成功: https://srs.iyb983.cn/video/CYS/index.m3u8
+   速度: 446.29KB/s | 数据量: 0.4KB | 总耗时: 1.00s
+[2026-01-30 14:38:39] ✅ 测速成功: http://27.41.245.32:801/hls/205/index.m3u8
+   速度: 246.09KB/s | 数据量: 0.2KB | 总耗时: 0.55s
+[2026-01-30 14:38:39] ✅ 测速成功: https://play-qukan.cztv.com/live/1746687519046362.m3u8
+   速度: 479.49KB/s | 数据量: 0.5KB | 总耗时: 0.81s
+[2026-01-30 14:38:39] ✅ 测速成功: http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+   速度: 230.47KB/s | 数据量: 0.2KB | 总耗时: 0.43s
+[2026-01-30 14:38:40] ✅ 测速成功: http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+   速度: 473.63KB/s | 数据量: 0.5KB | 总耗时: 1.29s
+[2026-01-30 14:38:41] ❌ 测速失败: http://117.36.76.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='117.36.76.86', port=9901): Max retries exceeded with url: /tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<HTTPConnection(host='117.36.76.86', port=9901) at 0x7f2f98e22580>, 'Connection to 117.36.76.86 timed out. (connect timeout=3.05)')) | 域名: 117.36.76.86
+[2026-01-30 14:38:44] ✅ 测速成功: http://148.113.160.49:14187
+   速度: 1077.41KB/s | 数据量: 6236.5KB | 总耗时: 5.83s
