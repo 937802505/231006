@@ -723,3 +723,5 @@ hlscdn.liangtv.cn:80
 221.13.235.226:9901
 221.13.234.240:9901
 182.114.49.22:9901
+pull-f3.douyincdn.com:80
+pili-live-hls-sjxgz2024.sobeylive.com:443
