@@ -317,3 +317,8 @@ dassby.qqff.top:99
 101.66.198.234:9901
 www.cdnstv.com:6398
 101.66.194.236:9901
+182.114.48.149:9901
+221.13.234.92:9901
+bcovlive-a.akamaihd.net:443
+vip1.xinketongxun.fun:8082
+101.66.199.87:9901
