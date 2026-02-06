@@ -91,3 +91,7 @@ dxtx.hntv.tv
 cdn2.132.us.kg
 newcntv.qcloudcdn.com
 cdn6.101.qzz.io
+live.dxhmt.cn
+live.ynurl.com
+smt.1678520.xyz
+cdn9.163189.xyz
