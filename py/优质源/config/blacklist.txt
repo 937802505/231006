@@ -83,3 +83,5 @@ live.metshop.top
 masterpull.hljtv.com
 rmplive.hljtv.com
 pull-hls-f11.douyincdn.com
+live.dxhmt.cn
+111.9.163.109
