@@ -363,3 +363,5 @@ webcast.hkstv.tv:80
 221.13.234.65:9901
 101.66.194.170:9901
 uzoiczhh.live.sxmty.com:80
+video.bread-tv.com:8091
+101.66.194.32:9901
