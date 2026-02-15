@@ -369,3 +369,6 @@ video.bread-tv.com:8091
 bxtv.3a.ink:443
 bxtv.3a.ink:80
 tvpull.hmgbtv.com:443
+221.13.234.110:9901
+36.40.237.35:9999
+221.13.235.8:9901
