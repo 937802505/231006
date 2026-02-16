@@ -378,3 +378,5 @@ tvpull.hmgbtv.com:443
 148.113.160.49:14187
 pull-vivek.speedws.com:80
 video.epaper.pybtv.cn:8080
+112.234.21.166:9901
+125.42.150.159:9901
