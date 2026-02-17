@@ -72,3 +72,5 @@ cssbyd.imwork.net
 183.215.134.239
 111.197.80.116
 125.42.150.159
+pull-hls-f1.douyincdn.com
+pull-flv-f1.douyincdn.com
