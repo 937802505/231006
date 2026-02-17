@@ -74,3 +74,6 @@ cssbyd.imwork.net
 125.42.150.159
 pull-hls-f1.douyincdn.com
 pull-flv-f1.douyincdn.com
+pull-hsbj.vzan.com
+live1.gatv.com.cn
+183.223.157.33
