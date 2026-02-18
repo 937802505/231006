@@ -77,3 +77,5 @@ pull-flv-f1.douyincdn.com
 pull-hsbj.vzan.com
 live1.gatv.com.cn
 183.223.157.33
+222.214.208.34
+hls.168.us.kg
