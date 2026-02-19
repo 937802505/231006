@@ -393,3 +393,5 @@ live.xysrmt.cn:80
 182.114.49.8:9901
 cdn9.163189.xyz:443
 hslive.hsnewsnet.com:80
+live.zzyxxw.com:85
+221.13.235.123:9901
