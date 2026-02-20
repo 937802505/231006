@@ -46,3 +46,5 @@ zjtv-wshls.homecdn.com
 live.jinchuanrmt.com
 file.loulannews.cn
 stream1.freetv.fun
+pull-vivek.speedws.com
+m3u8.channel.wsrtv.com.cn
