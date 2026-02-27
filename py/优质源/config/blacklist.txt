@@ -59,3 +59,9 @@ l.cztvcloud.com
 mgsp-hs2.live.miguvideo.com
 119.32.12.17
 119.91.7.169
+webcast.hkstv.tv
+120.238.85.131
+118.72.48.240
+flvhspull2mgsplive.miguvideo.com
+mgsp-zy.vod.miguvideo.com
+69.30.246.194
