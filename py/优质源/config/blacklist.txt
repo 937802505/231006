@@ -79,3 +79,6 @@ iptv.4666888.xyz
 iot-mqqt.111yao.cn
 www.ahtv.cn
 222.179.42.129
+119.39.9.8
+182.150.23.74
+nn.7x9d.cn
