@@ -41,3 +41,4 @@ live.yantaitv.cn
 pull-hls-f11.douyincdn.com
 goodiptv.club
 183.237.95.108
+huaiyin-tv-replay.cm.jstv.com
