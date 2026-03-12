@@ -67,3 +67,7 @@ gdcucc.v1.mk
 119.39.9.8
 222.179.42.129
 218.17.33.178
+nn.7x9d.cn
+live.spccmc.com
+5ddce30eb4b55.streamlock.net
+tmpstream.hyrtv.cn
