@@ -96,3 +96,8 @@ stream10.jlntv.cn
 p2.vzan.com
 p2hs.vzan.com
 jwplay.hebyun.com.cn
+live.xysrmt.cn
+file.ysxtv.cn
+m3u8channel-yj.yunxya.com
+113.25.252.226
+125.42.150.235
