@@ -101,3 +101,14 @@ file.ysxtv.cn
 m3u8channel-yj.yunxya.com
 113.25.252.226
 125.42.150.235
+dms.yryyj.site
+video.epaper.pybtv.cn
+live.dxhmt.cn
+webcast.hkstv.tv
+cm-wshls.homecdn.com
+alimov2.a.kwimgs.com
+zbbf2.ahbztv.com
+153.0.171.163
+tv.gxtv.cn
+zjtv-wshls.homecdn.com
+120.76.248.139
