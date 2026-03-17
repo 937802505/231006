@@ -63,3 +63,5 @@ live.dxhmt.cn
 122.152.202.33
 120.238.94.82
 111.221.137.234
+tvpull.smartwq.cn
+drive.mxmy.net
