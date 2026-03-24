@@ -57,3 +57,8 @@ iptv.4666888.xyz
 live.xysrmt.cn
 m3u8.channel.dzsm.com
 222.179.42.129
+182.150.115.21
+pull-hls-f11.douyincdn.com
+cssbyd.imwork.net
+gmxw.7766.org
+61.221.215.25
