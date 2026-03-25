@@ -67,3 +67,7 @@ gmxw.7766.org
 live1.gatv.com.cn
 153.0.171.163
 8.138.7.223
+183.237.95.108
+183.215.134.239
+hlscdn.liangtv.cn
+huaiyin-tv-replay.cm.jstv.com
