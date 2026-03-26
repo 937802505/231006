@@ -71,3 +71,14 @@ live1.gatv.com.cn
 183.215.134.239
 hlscdn.liangtv.cn
 huaiyin-tv-replay.cm.jstv.com
+113.25.252.226
+tmpstream.hyrtv.cn
+live.dxhmt.cn
+file.ysxtv.cn
+120.198.95.220
+101.66.198.12
+112.123.243.37
+hlsal-ldvt.qing.mgtv.com
+218.15.183.23
+113.15.109.216
+1.24.39.180
