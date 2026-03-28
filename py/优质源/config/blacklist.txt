@@ -53,3 +53,5 @@ video.epaper.pybtv.cn
 l.cztvcloud.com
 119.39.9.8
 tvdrs.wsrtv.com.cn
+tvpull.smartwq.cn
+8.138.7.223
