@@ -72,3 +72,10 @@ live.metshop.top
 61.184.46.85
 live.spccmc.com
 113.25.252.226
+hls.cntv.lxdns.com
+tv.gxtv.cn
+183.237.95.108
+yylunbo.ottiptv.cc
+lianshui-tv-hls.cm.jstv.com
+file.loulannews.cn
+tvcdn.stream3.hndt.com
