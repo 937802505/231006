@@ -87,3 +87,4 @@ tvpull.hmgbtv.com
 live.dxhmt.cn
 111.56.90.5
 219.150.217.47
+222.214.208.34
