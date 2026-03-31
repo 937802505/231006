@@ -84,3 +84,6 @@ m3u8.channel.wsrtv.com.cn
 zbbf2.ahbztv.com
 tvpull.hmgbtv.com
 218.84.127.245
+live.dxhmt.cn
+111.56.90.5
+219.150.217.47
