@@ -88,3 +88,6 @@ live.dxhmt.cn
 111.56.90.5
 219.150.217.47
 222.214.208.34
+ali-m-l.cztv.com
+gcalic.v.myalicdn.com
+112.123.243.37
