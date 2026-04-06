@@ -482,3 +482,4 @@ hlsal-ldvt.qing.mgtv.com:80
 148.113.160.49:14176
 dms.yryyj.site:8188
 101.66.198.193:9901
+php.jdshipin.com:2096
