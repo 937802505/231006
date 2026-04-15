@@ -50,3 +50,8 @@ t.freetv.fun
 222.214.208.34
 104.250.145.76
 153.0.171.163
+ls.qingting.fm
+stream.jmtv.com.cn
+119.91.7.169
+file.loulannews.cn
+125.43.241.91
