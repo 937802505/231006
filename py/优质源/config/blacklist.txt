@@ -55,3 +55,10 @@ stream.jmtv.com.cn
 119.91.7.169
 file.loulannews.cn
 125.43.241.91
+183.223.157.33
+l.cztvcloud.com
+61.216.67.119
+newcntv.qcloudcdn.com
+gmxw.7766.org
+5ddce30eb4b55.streamlock.net
+38.75.136.137
