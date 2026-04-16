@@ -69,3 +69,6 @@ yylunbo.ottiptv.cc
 gcalic.v.myalicdn.com
 stream.freetv.fun
 183.237.95.108
+1.197.204.20
+pull-hls-f11.douyincdn.com
+182.150.23.74
