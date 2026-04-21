@@ -58,3 +58,9 @@ hkstv.tv
 webcast.hkstv.tv
 198.204.228.26
 183.223.157.33
+iptv.xxika.net
+epg.pw
+119.39.9.8
+123.130.84.106
+mgtv.ottiptv.cc
+43.156.8.127
