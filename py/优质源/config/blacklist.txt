@@ -64,3 +64,5 @@ epg.pw
 123.130.84.106
 mgtv.ottiptv.cc
 43.156.8.127
+hls.nntv.cn
+218.84.12.186
