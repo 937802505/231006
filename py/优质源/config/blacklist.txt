@@ -73,3 +73,5 @@ l.cztvcloud.com
 101.66.198.95
 183.237.95.108
 www.ahtv.cn
+stream.hrbtv.net
+182.150.23.74
