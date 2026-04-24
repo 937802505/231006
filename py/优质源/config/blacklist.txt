@@ -75,3 +75,9 @@ l.cztvcloud.com
 www.ahtv.cn
 stream.hrbtv.net
 182.150.23.74
+gcalic.v.myalicdn.com
+101.66.195.20
+tencentplay.gztv.com
+101.66.199.163
+101.66.195.169
+stream8.jlntv.cn
