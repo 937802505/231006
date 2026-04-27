@@ -50,3 +50,6 @@ live.gxrb.com.cn
 183.223.157.33
 175.155.106.72
 m3u8.channel.dzsm.com
+tencentplay.gztv.com
+test1.live.sdetv.com.cn
+hzzzz530.com
