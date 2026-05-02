@@ -57,3 +57,5 @@ t.freetv.fun
 122.152.202.33
 jwplay.hebyun.com.cn
 newcntv.qcloudcdn.com
+182.150.23.74
+goodiptv.club
