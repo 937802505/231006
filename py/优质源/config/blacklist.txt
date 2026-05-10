@@ -54,3 +54,6 @@ live.metshop.top
 218.13.170.98
 221.13.235.203
 125.42.150.148
+lianshui-tv-hls.cm.jstv.com
+live.264788.xyz
+39.152.103.17
