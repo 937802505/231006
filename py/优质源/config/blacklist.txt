@@ -73,3 +73,5 @@ shuyang-tv-hls.cm.jstv.com
 122.100.242.52
 t.freetv.fun
 iptv.kakacq.com
+haimen-tv-hls.cm.jstv.com
+play-a2.quklive.com
