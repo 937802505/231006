@@ -75,3 +75,5 @@ t.freetv.fun
 iptv.kakacq.com
 haimen-tv-hls.cm.jstv.com
 play-a2.quklive.com
+huaiyin-tv-replay.cm.jstv.com
+113.15.109.216
