@@ -41,3 +41,7 @@ r.jdshipin.com
 119.39.9.8
 123.130.84.106
 111.231.6.102
+vip1.xinketongxun.fun
+pull-hls-f11.douyincdn.com
+183.129.255.66
+183.223.157.33
