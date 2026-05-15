@@ -45,3 +45,9 @@ vip1.xinketongxun.fun
 pull-hls-f11.douyincdn.com
 183.129.255.66
 183.223.157.33
+124.228.160.176
+222.214.208.34
+182.114.50.12
+stream.hrbtv.net
+hkstv.tv
+shuyang-tv-hls.cm.jstv.com
