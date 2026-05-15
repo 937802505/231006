@@ -51,3 +51,5 @@ pull-hls-f11.douyincdn.com
 stream.hrbtv.net
 hkstv.tv
 shuyang-tv-hls.cm.jstv.com
+play-a2.quklive.com
+live.xysrmt.cn
