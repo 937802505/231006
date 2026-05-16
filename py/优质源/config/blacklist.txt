@@ -53,3 +53,9 @@ hkstv.tv
 shuyang-tv-hls.cm.jstv.com
 play-a2.quklive.com
 live.xysrmt.cn
+liveout.btzx.com.cn
+183.237.95.108
+test1.live.sdetv.com.cn
+218.13.170.98
+120.211.62.180
+112.132.10.54
