@@ -73,3 +73,8 @@ ali-xwl.cztv.com
 satellitepull.cnr.cn
 47.108.228.131
 lianshui-tv-hls.cm.jstv.com
+113.46.143.74
+101.66.194.206
+qcfile.qcrmt.com
+110.154.192.40
+182.150.23.74
