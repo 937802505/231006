@@ -40,3 +40,7 @@ satellitepull.cnr.cn
 183.237.95.108
 119.39.9.8
 stream.thmz.com
+alimov2.a.kwimgs.com
+110.154.192.40
+hkstv.tv
+epg.pw
