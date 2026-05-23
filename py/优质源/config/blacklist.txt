@@ -61,3 +61,6 @@ pull-f3.douyincdn.com
 l2fpdktp.live.sxmty.com
 123.113.205.253
 113.25.252.226
+101.6.130.102
+m3u8.channel.dzsm.com
+27.12.12.42
