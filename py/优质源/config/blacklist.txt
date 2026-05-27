@@ -48,3 +48,11 @@ tpc.x3322.net
 153.0.171.163
 101.66.199.101
 101.66.199.183
+119.39.9.8
+58.56.162.102
+stream.hrbtv.net
+113.241.133.180
+stream.thmz.com
+l.cztvcloud.com
+183.129.255.66
+live.metshop.top
