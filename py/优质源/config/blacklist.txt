@@ -66,3 +66,7 @@ stream3.jlntv.cn
 tmpstream.hyrtv.cn
 dxtx.hntv.tv
 222.130.32.44
+59.39.89.130
+60.10.139.113
+58.17.116.69
+110.154.192.30
