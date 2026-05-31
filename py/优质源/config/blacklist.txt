@@ -76,3 +76,8 @@ alimov2.a.kwimgs.com
 223.247.25.205
 221.13.235.54
 shuyang-tv-hls.cm.jstv.com
+113.141.220.55
+120.202.94.181
+118.193.115.2
+222.94.115.176
+fuxin.yunjifei.top
