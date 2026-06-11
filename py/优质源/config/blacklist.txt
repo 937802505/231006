@@ -78,3 +78,10 @@ zjtv-wshls.homecdn.com
 gcalic.v.myalicdn.com
 m3u8channel.ganzitv.com
 epg.pw
+218.15.183.23
+118.193.115.2
+110.244.139.249
+124.116.183.146
+ali-m-l.cztv.com
+58.56.162.102
+222.134.245.16
