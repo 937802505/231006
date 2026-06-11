@@ -85,3 +85,9 @@ epg.pw
 ali-m-l.cztv.com
 58.56.162.102
 222.134.245.16
+112.46.85.60
+live.jinchuanrmt.com
+live1.gatv.com.cn
+m3u8.channel.dzsm.com
+file.ysxtv.cn
+112.46.105.20
