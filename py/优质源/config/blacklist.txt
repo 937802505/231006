@@ -55,3 +55,6 @@ live.xysrmt.cn
 111.221.137.234
 gcalic.v.myalicdn.com
 124.116.183.146
+gslbmgspvod.miguvideo.com
+gslbflvmgsplive.miguvideo.com
+110.244.139.249
