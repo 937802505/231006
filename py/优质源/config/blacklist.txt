@@ -69,3 +69,6 @@ antvlive.ab5c6921.cdnviet.com
 tylive.kan0512.com
 gctxyc.liveplay.myqcloud.com
 dspdhls.appcoo.com
+112.123.243.37
+stream3.jlntv.cn
+stream.jmtv.com.cn
