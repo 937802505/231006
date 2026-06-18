@@ -72,3 +72,8 @@ dspdhls.appcoo.com
 112.123.243.37
 stream3.jlntv.cn
 stream.jmtv.com.cn
+m3u8.channel.dzsm.com
+hlsztemgspvod.miguvideo.com
+dxtx.hntv.tv
+ali-xwl.cztv.com
+120.211.62.180
