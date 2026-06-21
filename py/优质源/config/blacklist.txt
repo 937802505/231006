@@ -62,3 +62,11 @@ l.cztvcloud.com
 112.123.243.37
 113.141.220.55
 play.yunxya.com
+112.27.235.94
+pull-hls-f1.douyinliving.com
+live.264788.xyz
+huaiyin-tv-replay.cm.jstv.com
+stream3.jlntv.cn
+116.52.173.25
+111.221.137.234
+ldocctvwbcdtxy.liveplay.myqcloud.com
