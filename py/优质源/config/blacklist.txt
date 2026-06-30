@@ -75,3 +75,5 @@ jwplay.hebyun.com.cn
 112.46.105.20
 1.24.39.180
 satellitepull.cnr.cn
+home.scanflove.com
+111.8.224.6
