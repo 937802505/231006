@@ -61,3 +61,4 @@ l.cztvcloud.com
 m3u8.channel.dzsm.com
 r.jdshipin.com
 flv-play.clouda.com
+113.141.220.55
