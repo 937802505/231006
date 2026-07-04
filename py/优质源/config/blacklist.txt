@@ -58,3 +58,6 @@ l.cztvcloud.com
 183.237.95.108
 218.13.170.98
 59.39.89.130
+m3u8.channel.dzsm.com
+r.jdshipin.com
+flv-play.clouda.com
