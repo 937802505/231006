@@ -62,3 +62,6 @@ m3u8.channel.dzsm.com
 r.jdshipin.com
 flv-play.clouda.com
 113.141.220.55
+222.179.42.129
+bp-resource-dfl.bestv.cn
+live.metshop.top
