@@ -48,3 +48,7 @@ gcalic.v.myalicdn.com
 101.6.130.52
 116.236.204.18
 l.cztvcloud.com
+183.237.95.108
+60.10.139.113
+stream5.jlntv.cn
+ali-m-l.cztv.com
