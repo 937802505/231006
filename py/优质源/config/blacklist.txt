@@ -52,3 +52,4 @@ l.cztvcloud.com
 60.10.139.113
 stream5.jlntv.cn
 ali-m-l.cztv.com
+118.193.115.2
