@@ -53,3 +53,6 @@ l.cztvcloud.com
 stream5.jlntv.cn
 ali-m-l.cztv.com
 118.193.115.2
+hslive.hsnewsnet.com
+110.154.192.66
+stream.thmz.com
