@@ -60,3 +60,5 @@ epg.pw
 tpc.x3322.net
 shcm-stream-cf1.stream.264788.xyz
 m3u8.channel.dzsm.com
+182.150.23.74
+120.238.94.82
