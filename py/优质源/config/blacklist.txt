@@ -69,3 +69,7 @@ jsv-live-play.sfccn.com
 183.129.255.66
 live1.gatv.com.cn
 125.42.148.232
+qmmqvzoz.live.sxmty.com
+zjtv-wshls.homecdn.com
+49.87.154.246
+m3u8channel.ganzitv.com
