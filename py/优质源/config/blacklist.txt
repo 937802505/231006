@@ -87,3 +87,6 @@ mgsp-hs2.live.miguvideo.com
 flvhspull2mgsplive.miguvideo.com
 218.206.193.218
 182.127.153.119
+hzcm-live.media.hugd.com
+drive.mxmy.net
+www.negative.top
