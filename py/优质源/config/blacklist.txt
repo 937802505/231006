@@ -82,3 +82,11 @@ zjtv-wshls.homecdn.com
 183.129.255.66
 125.42.151.53
 101.66.194.115
+139.227.21.22
+61.136.172.236
+cssbyd.imwork.net
+hlsbkmgsplive.miguvideo.com
+110.154.192.36
+pull-hls-f1.douyinliving.com
+222.179.42.129
+104.152.209.49
