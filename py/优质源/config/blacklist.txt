@@ -90,3 +90,4 @@ hlsbkmgsplive.miguvideo.com
 pull-hls-f1.douyinliving.com
 222.179.42.129
 104.152.209.49
+121.19.134.22
