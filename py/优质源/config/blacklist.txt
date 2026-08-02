@@ -67,3 +67,10 @@ epg.pw
 222.214.208.34
 111.221.137.234
 112.27.5.218
+cm-wshls.homecdn.com
+l.cztvcloud.com
+101.66.194.129
+shcm-stream-cf1.stream.264788.xyz
+zjtv-wshls.homecdn.com
+play.scrstv.com.cn
+153.0.171.163
