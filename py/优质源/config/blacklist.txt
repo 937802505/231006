@@ -97,3 +97,6 @@ satellitepull.cnr.cn
 stream.jmtv.com.cn
 www.9kds.com
 112.123.243.37
+223.247.25.247
+live.jinchuanrmt.com
+116.52.173.194
