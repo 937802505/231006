@@ -64,3 +64,7 @@ l2fpdktp.live.sxmty.com
 123.118.53.84
 222.179.155.21
 183.223.157.33
+222.128.55.152
+l.cztvcloud.com
+live.ahsz.tv
+110.6.204.65
