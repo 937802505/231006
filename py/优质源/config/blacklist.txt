@@ -68,3 +68,7 @@ l2fpdktp.live.sxmty.com
 l.cztvcloud.com
 live.ahsz.tv
 110.6.204.65
+123.163.21.227
+110.6.137.4
+61.178.227.57
+zjtv-wshls.homecdn.com
