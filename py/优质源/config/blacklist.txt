@@ -68,3 +68,9 @@ hzcm-live.media.hugd.com
 61.178.227.57
 222.134.245.16
 183.234.143.5
+stream.thmz.com
+satellitepull.cnr.cn
+113.26.202.52
+118.193.115.2
+l2fpdktp.live.sxmty.com
+m3u8channel.yunxya.com
