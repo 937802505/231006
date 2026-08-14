@@ -74,3 +74,5 @@ satellitepull.cnr.cn
 118.193.115.2
 l2fpdktp.live.sxmty.com
 m3u8channel.yunxya.com
+183.185.66.248
+183.129.255.66
