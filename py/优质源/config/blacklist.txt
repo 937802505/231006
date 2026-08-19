@@ -34,3 +34,5 @@ stream3.jlntv.cn
 118.193.115.2
 112.27.5.218
 222.169.85.8
+hzcm-live.media.hugd.com
+stream.hrbtv.net
