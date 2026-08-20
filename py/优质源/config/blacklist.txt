@@ -40,3 +40,6 @@ stream.hrbtv.net
 bp-resource-dfl.bestv.cn
 stream.thmz.com
 zjtv-wshls.homecdn.com
+220.187.222.240
+ali-vl.cztv.com
+d1t.alwaysdata.net
