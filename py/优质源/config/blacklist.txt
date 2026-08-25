@@ -27,3 +27,6 @@ m3u8.channel.dzsm.com
 1.28.123.148
 ali-vl.cztv.com
 cm-wshls.homecdn.com
+123.118.55.165
+l.cztvcloud.com
+104.152.209.49
