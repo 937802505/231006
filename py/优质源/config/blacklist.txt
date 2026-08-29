@@ -50,3 +50,5 @@ gmxw.7766.org
 118.193.115.2
 ls.qingting.fm
 live.ahsz.tv
+live.chinacert.cftest5.cn
+207.56.13.146
