@@ -52,3 +52,8 @@ ls.qingting.fm
 live.ahsz.tv
 live.chinacert.cftest5.cn
 207.56.13.146
+hwapi.yntv.net
+live.shaoxing.com.cn
+222.136.68.235
+61.178.227.57
+l2fpdktp.live.sxmty.com
