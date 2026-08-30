@@ -58,3 +58,6 @@ live.shaoxing.com.cn
 61.178.227.57
 l2fpdktp.live.sxmty.com
 111.59.24.227
+hzcm-live.media.hugd.com
+125.125.234.143
+stream5.jlntv.cn
