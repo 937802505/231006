@@ -23,3 +23,5 @@ bp-resource-dfl.bestv.cn
 live.ahsz.tv
 111.59.24.227
 gcalic.v.myalicdn.com
+183.237.95.108
+l2fpdktp.live.sxmty.com
