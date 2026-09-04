@@ -44,3 +44,5 @@ epg.pw
 m3u8.channel.dzsm.com
 223.78.65.165
 ali-vl.cztv.com
+101.66.195.43
+gmxw.7766.org
