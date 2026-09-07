@@ -30,3 +30,5 @@ live.qthnews.org.cn
 31.43.191.125
 122.224.58.42
 l2fpdktp.live.sxmty.com
+stream.hrbtv.net
+l.cztvcloud.com
