@@ -46,3 +46,6 @@ bp-resource-dfl.bestv.cn
 goodiptv.club
 182.150.115.21
 hkstv.tv
+183.11.239.36
+stream5.jlntv.cn
+tpc.x3322.net
