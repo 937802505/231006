@@ -49,3 +49,4 @@ hkstv.tv
 183.11.239.36
 stream5.jlntv.cn
 tpc.x3322.net
+zjtv-wshls.homecdn.com
