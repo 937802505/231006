@@ -13,3 +13,9 @@ tvfile.jjrm.org.cn
 tv.drs.ganzitv.com
 124.88.144.73
 idclive.hljtv.com
+223.78.65.165
+bp-resource-dfl.bestv.cn
+111.59.139.82
+222.169.85.8
+dxtx.hntv.tv
+zjtv-wshls.homecdn.com
