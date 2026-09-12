@@ -19,3 +19,4 @@ bp-resource-dfl.bestv.cn
 222.169.85.8
 dxtx.hntv.tv
 zjtv-wshls.homecdn.com
+hzcm-live.media.hugd.com
