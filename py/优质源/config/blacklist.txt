@@ -29,3 +29,5 @@ l.cztvcloud.com
 31.43.191.125
 ali-vl.cztv.com
 play.scrstv.com.cn
+123.146.162.24
+101.66.198.81
