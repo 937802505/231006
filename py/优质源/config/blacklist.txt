@@ -34,3 +34,7 @@ play.scrstv.com.cn
 m3u8.channel.dzsm.com
 115.48.161.223
 zbbf2.ahbztv.com
+tntgjhjb.live.sxmty.com
+101.66.198.207
+video.epaper.pybtv.cn
+183.11.239.36
