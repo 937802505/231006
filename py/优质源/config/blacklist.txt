@@ -37,3 +37,6 @@ l2fpdktp.live.sxmty.com
 111.59.139.82
 qmmqvzoz.live.sxmty.com
 60.222.246.220
+m3u8channel.yunxya.com
+hzcm-live.media.hugd.com
+bp-resource-dfl.bestv.cn
