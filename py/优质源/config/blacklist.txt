@@ -44,3 +44,6 @@ stream.hrbtv.net
 hkstv.tv
 dxtx.hntv.tv
 tvfile.jyrmt.cn
+ali-m-l.cztv.com
+112.46.105.20
+m3u8channel.ganzitv.com
