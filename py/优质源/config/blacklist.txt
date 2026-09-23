@@ -48,3 +48,6 @@ ali-m-l.cztv.com
 112.46.105.20
 m3u8channel.ganzitv.com
 tntgjhjb.live.sxmty.com
+218.84.12.186
+gcalic.v.myalicdn.com
+zjtv-wshls.homecdn.com
