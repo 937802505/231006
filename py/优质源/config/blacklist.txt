@@ -41,3 +41,5 @@ gcalic.v.myalicdn.com
 tvcdn.stream3.hndt.com
 live.shaoxing.com.cn
 112.30.73.119
+cm-wshls.homecdn.com
+112.27.5.218
