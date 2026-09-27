@@ -43,3 +43,6 @@ live.shaoxing.com.cn
 112.30.73.119
 cm-wshls.homecdn.com
 112.27.5.218
+183.237.95.108
+live.daningtv.com
+183.11.239.36
