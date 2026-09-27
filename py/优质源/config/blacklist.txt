@@ -46,3 +46,4 @@ cm-wshls.homecdn.com
 183.237.95.108
 live.daningtv.com
 183.11.239.36
+bp-resource-dfl.bestv.cn
