@@ -48,3 +48,4 @@ live.daningtv.com
 183.11.239.36
 bp-resource-dfl.bestv.cn
 tmpstream.hyrtv.cn
+l2fpdktp.live.sxmty.com
