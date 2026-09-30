@@ -22,3 +22,10 @@ l.cztvcloud.com
 101.66.194.125
 video.epaper.pybtv.cn
 222.169.85.8
+live.metshop.top
+hzcm-live.media.hugd.com
+i.mjh.nz
+m3u8.channel.dzsm.com
+tmpstream.hyrtv.cn
+gcalic.v.myalicdn.com
+bp-resource-dfl.bestv.cn
