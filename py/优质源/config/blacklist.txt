@@ -29,3 +29,7 @@ m3u8.channel.dzsm.com
 tmpstream.hyrtv.cn
 gcalic.v.myalicdn.com
 bp-resource-dfl.bestv.cn
+lbyzztfe.live.sxmty.com
+182.150.115.21
+p2.bdstatic.com
+cm-wshls.homecdn.com
