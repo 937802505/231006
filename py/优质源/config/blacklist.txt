@@ -47,3 +47,4 @@ l2fpdktp.live.sxmty.com
 113.25.252.226
 live.chinacert.cftest5.cn
 live.wjyanghu.com
+m3u8channel.ganzitv.com
