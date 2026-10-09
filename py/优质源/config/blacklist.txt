@@ -34,3 +34,5 @@ m3u8channel.ganzitv.com
 hslive.hsnewsnet.com
 lbyzztfe.live.sxmty.com
 183.237.95.108
+play.scrstv.com.cn
+file.ysxtv.cn
