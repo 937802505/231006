@@ -36,3 +36,5 @@ lbyzztfe.live.sxmty.com
 183.237.95.108
 play.scrstv.com.cn
 file.ysxtv.cn
+epg.pw
+m3u8.channel.dzsm.com
