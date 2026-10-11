@@ -40,3 +40,4 @@ epg.pw
 m3u8.channel.dzsm.com
 zb-live.ynurl.com
 gmxw.7766.org
+jwcdnqx.hebyun.com.cn
