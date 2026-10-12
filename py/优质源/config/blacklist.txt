@@ -21,3 +21,6 @@ lxfile.lxxcb.cn
 l.cztvcloud.com
 video.epaper.pybtv.cn
 live.yantaitv.cn
+hzcm-live.media.hugd.com
+file.ysxtv.cn
+223.78.65.165
